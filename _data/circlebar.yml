@@ -6,18 +6,14 @@
   link: /projects
   icon: projects.png
 
-- name: GitHub
-  link: https://github.com/jsidrach/jekyll-about-me
-  icon: repo.png
-
 - name: LinkedIn
   link: https://linkedin.com/in/
   icon: jobs.png
 
-- name: CV
+- name: Resume
   link: /public/data/cv_example.pdf
   icon: cv.png
 
 - name: Mail
-  link: mailto:example@mail.com
+  link: mailto:eric@cozzi.us
   icon: mail.png
