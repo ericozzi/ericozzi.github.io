@@ -2,16 +2,12 @@
   link: /
   icon: about.png
 
-- name: Projects
-  link: /projects
-  icon: projects.png
-
 - name: LinkedIn
-  link: https://linkedin.com/in/
+  link: https://linkedin.com/in/ericozzi
   icon: jobs.png
 
 - name: Resume
-  link: /public/data/cv_example.pdf
+  link: /public/data/resume.pdf
   icon: cv.png
 
 - name: Mail
